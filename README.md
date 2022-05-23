@@ -9,3 +9,5 @@ The source code does not contain a required `.dll` file; if you wish to try this
 
 Here is a shortcut to that download:
 [SpookyHouse.Packaged.Version.zip](https://github.com/MihaiZecheru/SpookyHouse/releases/download/SpookyHouse/SpookyHouse.Packaged.Version.zip)
+
+Unzip the file and then run `SpookyHouse.exe`
