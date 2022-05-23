@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpookyHouse", "AudioDemo\SpookyHouse.csproj", "{22DDD745-96A7-495E-87C4-EB4C1D8F48E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22DDD745-96A7-495E-87C4-EB4C1D8F48E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22DDD745-96A7-495E-87C4-EB4C1D8F48E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22DDD745-96A7-495E-87C4-EB4C1D8F48E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22DDD745-96A7-495E-87C4-EB4C1D8F48E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7F54528-BDFC-4B41-B5E8-223262CA6BB6}
+	EndGlobalSection
+EndGlobal
