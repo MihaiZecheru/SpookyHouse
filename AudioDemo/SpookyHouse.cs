@@ -1,4 +1,6 @@
-﻿using System;
+// System.Windows.Extensions.dll
+
+using System;
 using System.Media;
 
 namespace SpookyHouse
